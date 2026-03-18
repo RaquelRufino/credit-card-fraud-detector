@@ -33,7 +33,7 @@ cd credit-card-fraud-detector
 
 # Criação e ativação do ambiente virtual
 python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+source venv/bin/activate
 
 # Instalação de dependências
 pip install -r requirements.txt
